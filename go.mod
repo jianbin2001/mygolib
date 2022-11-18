@@ -1,3 +1,3 @@
-module github.com/jianbin_2001/mylib
+module github.com/jianbin2001/mygolib
 
 go 1.19
